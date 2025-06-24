@@ -1,0 +1,48 @@
+# 编译生成的文件
+*.exe
+*.obj
+*.o
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.exp
+
+# 配置文件（包含个人路径信息）
+config.txt
+
+# 备份文件夹
+backup/
+backup_sound_mod/
+
+# Mod文件夹（用户自己的Mod）
+mod/
+
+# Visual Studio相关
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.suo
+*.user
+
+# Code::Blocks相关
+*.cbp
+*.layout
+*.depend
+
+# Dev-C++相关
+*.dev
+
+# 临时文件
+*.tmp
+*.temp
+*~
+
+# 系统文件
+Thumbs.db
+.DS_Store
+
+# 日志文件
+*.log
